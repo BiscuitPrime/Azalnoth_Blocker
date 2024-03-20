@@ -1,0 +1,1 @@
+The Azalnoth Blocker App is an application I created to boost my focus and reduce the time wasted on other sites (looking at you, doom-scrolling reddit).
