@@ -4,6 +4,6 @@ The Azalnoth Blocker App is an application to boost my focus and reduce the time
 
 In the future, and I find the time, I would like to make it so the user can add sites through a textbox in the pop-up. But, you know, we'll cross that bridge when we cross it...
 
-##How to use##
+## How to use
 
 Simply download the project, go to **chrome://extensions/**, click on **"Developer Mode"** (_upper-right corner_) and then click on **"Load Unpacked"**. Select your downloaded project and voilà !
